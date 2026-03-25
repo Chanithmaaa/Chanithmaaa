@@ -1,9 +1,7 @@
 <!-- ================= HEADER ================= -->
-<div align="center" style="background-color:#0F172A; padding: 25px; border-radius: 12px;">
-  <h1 style="color: white; margin: 0;">
-    Hi, I'm Chanithma Dangalla
-  </h1>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=140&section=header&text=Hi%2C%20I'm%20Chanithma%20Dangalla&fontColor=ffffff&fontSize=40&fontAlignY=55" />
+</p>
 
 <h3 align="center">
   Undergraduate Computer Science Student @ IIT | Software Developer | AI Enthusiast
