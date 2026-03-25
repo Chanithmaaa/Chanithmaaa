@@ -1,6 +1,18 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Chanithma Dangalla</h1>
-<h3 align="center">Undergraduate Computer Science Student @ IIT | Software Developer | AI Enthusiast</h3>
+<h1 align="center">
+  Hi, I'm 
+  <span style="
+    background: linear-gradient(90deg, #4F46E5, #06B6D4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  ">
+    Chanithma Dangalla
+  </span>
+</h1>
+
+<h3 align="center">
+  Undergraduate Computer Science Student @ IIT | Software Developer | AI Enthusiast
+</h3>
 
 <p align="center">
   Passionate about building <b>scalable software</b>, <b>AI-powered systems</b>, and <b>interactive web applications</b>.
@@ -37,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,mysql" />
 </div>
 
-### 🤖 AI / Data / Emerging Technologies
+### 🤖 AI / Emerging Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,firebase,supabase" />
 </div>
