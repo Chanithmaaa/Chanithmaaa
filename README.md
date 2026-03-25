@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Chanithma%20Dangalla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descSize=18&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Chanithma%20Dangalla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Software%20Developer&descSize=18&descAlignY=65" />
 </p>
 
 <h3 align="center">
@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  Passionate about building scalable software, full-stack web applications, and interactive digital solutions.
+  Passionate about building scalable software, full-stack web applications, and efficient digital systems.
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 - 🎓 Undergraduate in **Computer Science @ IIT**
 - 💻 Focused on **Full-Stack Development & Software Engineering**
-- 🌐 Interested in **Web Technologies & System Design**
+- 🌐 Interested in **Software Development & System Design**
 - 🚀 Passionate about building **real-world applications**
 - 🤝 Strong in **teamwork & problem-solving**
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-`Full-Stack Development` • `Web Applications` • `System Design` • `UI/UX Development`
+`Full-Stack Development` • `Software Development` • `Web Applications` • `System Design`
 
 </div>
 
