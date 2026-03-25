@@ -17,77 +17,40 @@
 
 - 🎓 Undergraduate in **Computer Science @ IIT**
 - 💻 Focused on **Full-Stack Development & Software Engineering**
-- 🤖 Interested in **AI, Computer Vision & Smart Systems**
-- 🚀 Experience building **real-world applications & academic projects**
-- 🤝 Strong in **teamwork, leadership & communication**
-- 📈 Continuously improving problem-solving & system design skills
+- 🤖 Interested in **Artificial Intelligence & Smart Systems**
+- 🚀 Passionate about building **practical, user-focused applications**
+- 🤝 Strong in **teamwork, leadership, and communication**
+- 📈 Continuously improving **problem-solving and system design skills**
 
 ---
 
 <!-- ================= TECH STACK ================= -->
-## 🧰 Tech Stack
+## 🧰 Technical Skills
 
-### 💻 Languages & Core
+### 💻 Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </div>
 
-### 🌐 Web & Full-Stack
+### 🌐 Web & Full-Stack Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,mysql" />
 </div>
 
-### 🤖 AI / Data / Emerging Tech
+### 🤖 AI / Data / Emerging Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,firebase,supabase" />
 </div>
 
-### 🛠 Tools & Platforms
+### 🛠 Tools & Development Environment
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,idea" />
 </div>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
-
-### 🔹 ADORIX – AI-Powered Interactive Advertising System
-- Built using **React, Node.js, Python, OpenCV, Supabase**
-- Developed an intelligent system to detect users and display personalized ads
-- Implemented real-time frontend-backend communication
-- Designed a responsive dashboard for campaign management
-
----
-
-### 🔹 Estate Agent Web Platform
-- Developed using **HTML, CSS, JavaScript**
-- Property browsing and management system
-- Focused on UI design and usability
-
----
-
-### 🔹 Traffic Volume Histogram Application
-- Built with **Python (Tkinter)**
-- Visualizes traffic data using graphical representation
-- Includes legends, axes, and real-time visualization
-
----
-
-### 🔹 Feedback Collection Web Application
-- Developed interactive forms with validation
-- Designed user-friendly UI and submission flow
-
----
-
-### 🔹 Personal Portfolio Website
-- Designed and developed a responsive portfolio
-- Showcases projects, skills, and achievements
-
----
-
 <!-- ================= INTERESTS ================= -->
-## 🌱 Areas of Interest
+## 🌱 Professional Interests
 
 <div align="center">
 
@@ -99,7 +62,7 @@
 ---
 
 <!-- ================= STATS ================= -->
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
