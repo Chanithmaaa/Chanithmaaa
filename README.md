@@ -1,14 +1,14 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=140&section=header&text=Hi%2C%20I'm%20Chanithma%20Dangalla&fontColor=ffffff&fontSize=40&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Chanithma%20Dangalla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20|%20AI%20Enthusiast&descSize=18&descAlignY=65" />
 </p>
 
 <h3 align="center">
-  Undergraduate Computer Science Student @ IIT | Software Developer | AI Enthusiast
+  Undergraduate Computer Science Student @ IIT
 </h3>
 
 <p align="center">
-  Passionate about building <b>scalable software</b>, <b>AI-powered systems</b>, and <b>interactive web applications</b>.
+  Passionate about building scalable software, AI-powered systems, and interactive web applications.
 </p>
 
 <div align="center">
@@ -17,57 +17,35 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
 ## 👩‍💻 About Me
 
 - 🎓 Undergraduate in **Computer Science @ IIT**
 - 💻 Focused on **Full-Stack Development & Software Engineering**
-- 🤖 Interested in **Artificial Intelligence & Smart Systems**
-- 🚀 Passionate about building **practical, user-focused applications**
-- 🤝 Strong in **teamwork, leadership, and communication**
-- 📈 Continuously improving **problem-solving and system design skills**
+- 🤖 Interested in **AI & Smart Systems**
+- 🚀 Passionate about building **real-world applications**
+- 🤝 Strong in **teamwork & problem-solving**
 
 ---
 
-<!-- ================= TECH STACK ================= -->
 ## 🧰 Technical Skills
 
-### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
-</div>
-
-### 🌐 Web & Full-Stack Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,mysql" />
-</div>
-
-### 🤖 AI / Emerging Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,firebase,supabase" />
-</div>
-
-### 🛠 Tools & Development Environment
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css,mysql,tensorflow,opencv,firebase,supabase,github,vscode,idea" />
 </div>
 
 ---
 
-<!-- ================= INTERESTS ================= -->
-## 🌱 Professional Interests
+## 🌱 Interests
 
 <div align="center">
 
-`Software Engineering` • `Full-Stack Development` • `AI Systems`  
-`Computer Vision` • `Smart Applications` • `UI/UX Design`
+`Software Engineering` • `Full-Stack Development` • `AI Systems` • `Computer Vision`
 
 </div>
 
 ---
 
-<!-- ================= STATS ================= -->
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -79,8 +57,7 @@
 
 ---
 
-<!-- ================= CONTACT ================= -->
-## 📫 Connect With Me
+## 📫 Connect
 
 <div align="center">
 
@@ -96,11 +73,6 @@
 
 ---
 
-<!-- ================= QUOTE ================= -->
-## ✨ Developer Mindset
+## ✨ Motto
 
-<div align="center">
-
-> Turning ideas into practical digital solutions through code, creativity, and continuous learning.
-
-</div>
+> Turning ideas into practical digital solutions through code and creativity.
