@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Chanithma%20Dangalla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20|%20AI%20Enthusiast&descSize=18&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Chanithma%20Dangalla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descSize=18&descAlignY=65" />
 </p>
 
 <h3 align="center">
@@ -8,14 +8,16 @@
 </h3>
 
 <p align="center">
-  Passionate about building scalable software, AI-powered systems, and interactive web applications.
+  Passionate about building scalable software, full-stack web applications, and interactive digital solutions.
 </p>
+
+---
 
 ## 👩‍💻 About Me
 
 - 🎓 Undergraduate in **Computer Science @ IIT**
 - 💻 Focused on **Full-Stack Development & Software Engineering**
-- 🤖 Interested in **AI & Smart Systems**
+- 🌐 Interested in **Web Technologies & System Design**
 - 🚀 Passionate about building **real-world applications**
 - 🤝 Strong in **teamwork & problem-solving**
 
@@ -57,17 +59,6 @@
 
 ---
 
-### 🤖 AI & Emerging Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</div>
-
-<p align="center">
-  TensorFlow • OpenCV • Computer Vision Basics
-</p>
-
----
-
 ### 🛠 Tools & Development Environment
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,idea" />
@@ -77,11 +68,13 @@
   GitHub • VS Code • IntelliJ IDEA
 </p>
 
+---
+
 ## 🌱 Interests
 
 <div align="center">
 
-`Software Engineering` • `Full-Stack Development` • `AI Systems` • `Computer Vision`
+`Full-Stack Development` • `Web Applications` • `System Design` • `UI/UX Development`
 
 </div>
 
