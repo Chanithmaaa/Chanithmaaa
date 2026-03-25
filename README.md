@@ -1,62 +1,23 @@
-export default function SkillsSection() {
-  const devTools = [
-    "Python", "Java", "JavaScript", "Next.js", "React",
-    "HTML5", "CSS3", "MySQL", "Vercel", "GitHub", "IntelliJ", "VS Code"
-  ];
+<h2 align="center">Languages and Tools</h2>
 
-  const aiTools = [
-    "Firebase", "Supabase", "Raspberry Pi", "TensorFlow", "OpenCV"
-  ];
+<h3 align="center">Development & Web</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,nextjs,react,html,css,mysql,vercel,github,idea,vscode" />
+</p>
 
-  const designTools = [
-    "Photoshop", "Illustrator", "Premiere Pro", "After Effects", "Figma"
-  ];
+<h3 align="center">IoT & AI Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,raspberrypi,tensorflow" />
+</p>
 
-  return (
-    <section className="min-h-screen bg-[#020817] text-white flex flex-col items-center justify-center px-6 py-20">
-      <h2 className="text-4xl font-bold mb-10">Languages and Tools:</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TinyLlama-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DeepFace-black?style=for-the-badge" />
+</p>
 
-      <div className="text-center mb-10">
-        <h3 className="text-2xl font-semibold mb-6">Development & Web</h3>
-        <div className="flex flex-wrap justify-center gap-4 max-w-4xl">
-          {devTools.map((tool) => (
-            <div
-              key={tool}
-              className="px-5 py-3 rounded-2xl bg-slate-800 shadow-lg border border-slate-700 hover:scale-105 transition"
-            >
-              {tool}
-            </div>
-          ))}
-        </div>
-      </div>
-
-      <div className="text-center mb-10">
-        <h3 className="text-2xl font-semibold mb-6">IoT & AI Stack</h3>
-        <div className="flex flex-wrap justify-center gap-4 max-w-3xl">
-          {aiTools.map((tool) => (
-            <div
-              key={tool}
-              className="px-5 py-3 rounded-2xl bg-slate-800 shadow-lg border border-slate-700 hover:scale-105 transition"
-            >
-              {tool}
-            </div>
-          ))}
-        </div>
-      </div>
-
-      <div className="text-center">
-        <h3 className="text-2xl font-semibold mb-6">Design & Editing</h3>
-        <div className="flex flex-wrap justify-center gap-4 max-w-3xl">
-          {designTools.map((tool) => (
-            <div
-              key={tool}
-              className="px-5 py-3 rounded-2xl bg-slate-800 shadow-lg border border-slate-700 hover:scale-105 transition"
-            >
-              {tool}
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
+<h3 align="center">Design & Editing</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma" />
+</p>
