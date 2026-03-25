@@ -1,7 +1,9 @@
 <!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi,+I'm+Chanithma+Dangalla" />
-</p>
+<div align="center" style="background-color:#0F172A; padding: 25px; border-radius: 12px;">
+  <h1 style="color: white; margin: 0;">
+    Hi, I'm Chanithma Dangalla
+  </h1>
+</div>
 
 <h3 align="center">
   Undergraduate Computer Science Student @ IIT | Software Developer | AI Enthusiast
