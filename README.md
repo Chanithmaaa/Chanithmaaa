@@ -11,11 +11,6 @@
   Passionate about building scalable software, AI-powered systems, and interactive web applications.
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chanithmaaa&label=Profile%20views&color=4F46E5&style=flat" />
-</div>
----
-
 ## 👩‍💻 About Me
 
 - 🎓 Undergraduate in **Computer Science @ IIT**
