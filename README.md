@@ -1,70 +1,53 @@
-<div align="center">
-
-# Tech Stack & Creative Toolkit
-
-💻 Passionate about **Software Engineering, AI-powered systems, Web Development, UI Design, and Smart Interactive Solutions**
-
-</div>
-
----
-
-## 🚀 Development & Web
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,html,css,nodejs,mysql,github,vscode,idea" />
-</div>
+<h1 align="center">Hi, I'm Chanithma Dangalla 👋</h1>
+<h3 align="center">Undergraduate Computer Science Student | Web Developer | AI Enthusiast</h3>
 
 <p align="center">
-  Building responsive web applications, full-stack systems, and interactive digital platforms.
-</p>
-
----
-
-## 🤖 AI, IoT & Emerging Tech
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,raspberrypi,tensorflow,opencv" />
-</div>
-
-<p align="center">
-  Interested in computer vision, intelligent automation, smart kiosk systems, and AI-integrated user experiences.
+  I am a Computer Science undergraduate at IIT with a strong interest in software development, AI-powered systems, and interactive web solutions. I enjoy building responsive applications, solving problems, and turning ideas into practical digital products.
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TinyLlama-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DeepFace-111111?style=for-the-badge" />
+  <a href="https://github.com/Chanithmaaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chanithma-dangalla-b52203339/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 🎨 Design & Editing
+## 👩‍💻 About Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma" />
-</div>
-
-<p align="center">
-  Enjoy creating clean visuals, branding elements, edited media, and user-friendly interface designs.
-</p>
+- 🎓 Undergraduate Computer Science student at IIT
+- 💡 Interested in software engineering, web development, and AI-based systems
+- 🤝 Strong in teamwork, leadership, communication, and problem-solving
+- 🚀 Enjoy building practical, user-friendly, and interactive digital solutions
+- 📚 Always learning and improving my technical skills
 
 ---
 
-## 🌱 What I Love Working On
+## 🧰 Tech Stack
 
 <div align="center">
-
-`Full-Stack Development` • `AI Projects` • `Smart Systems` • `Creative UI/UX` • `Team Projects` • `Problem Solving`
-
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,nodejs,mysql,github,vscode,idea" />
 </div>
 
 ---
 
-## ✨ Developer Focus
+## 🔍 Interests
 
 <div align="center">
-  
-> Turning ideas into practical digital solutions through code, creativity, and intelligent technology.
+
+`Web Development` • `AI Projects` • `Computer Vision` • `Smart Systems` • `UI-Focused Applications` • `Data Visualization`
+
+</div>
+
+---
+
+## ✨ Motto
+
+<div align="center">
+
+> Turning ideas into practical digital solutions through code, creativity, and continuous learning.
 
 </div>
