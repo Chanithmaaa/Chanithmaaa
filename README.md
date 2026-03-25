@@ -1,14 +1,7 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">
-  Hi, I'm 
-  <span style="
-    background: linear-gradient(90deg, #4F46E5, #06B6D4);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
-    Chanithma Dangalla
-  </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi,+I'm+Chanithma+Dangalla" />
+</p>
 
 <h3 align="center">
   Undergraduate Computer Science Student @ IIT | Software Developer | AI Enthusiast
@@ -19,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chanithmaaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Chanithmaaa&label=Profile%20views&color=4F46E5&style=flat" />
 </div>
 
 ---
