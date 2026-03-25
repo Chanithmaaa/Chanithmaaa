@@ -27,13 +27,61 @@
 
 ---
 
+<!-- ================= TECH STACK ================= -->
 ## 🧰 Technical Skills
 
+### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css,mysql,tensorflow,opencv,firebase,supabase,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </div>
 
+<p align="center">
+  Python • Java • JavaScript
+</p>
+
 ---
+
+### 🌐 Web Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</div>
+
+<p align="center">
+  HTML • CSS • React.js • Node.js
+</p>
+
+---
+
+### 🗄️ Databases & Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+</div>
+
+<p align="center">
+  MySQL • Firebase • Supabase
+</p>
+
+---
+
+### 🤖 AI & Emerging Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</div>
+
+<p align="center">
+  TensorFlow • OpenCV • Computer Vision Basics
+</p>
+
+---
+
+### 🛠 Tools & Development Environment
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,idea" />
+</div>
+
+<p align="center">
+  GitHub • VS Code • IntelliJ IDEA
+</p>
 
 ## 🌱 Interests
 
